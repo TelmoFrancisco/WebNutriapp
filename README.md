@@ -1,2 +1,0 @@
-# WebNutriapp
-Aplicação de nutrição
